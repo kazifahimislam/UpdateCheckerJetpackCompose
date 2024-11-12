@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "637137393838",
+    "firebase_url": "https://learningcompose-6679d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "learningcompose-6679d",
+    "storage_bucket": "learningcompose-6679d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637137393838:android:f42d364c0e1f366eaa753f",
+        "android_client_info": {
+          "package_name": "com.example.learningcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE9_chSERdbr4nE2v0tfs5208SrB8OKhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
